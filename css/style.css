@@ -174,9 +174,6 @@ img {
   background-color: var(--accent-link-color);
 }
 
-.site-nav-link::after {
-}
-
 .header-contact-list-icon {
   fill: currentColor;
   margin-right: 10px;
@@ -254,7 +251,7 @@ img {
   border-radius: 4px;
 }
 
-.form {
+.forms {
   display: flex;
   flex-direction: column;
 }
@@ -1003,7 +1000,7 @@ textarea {
   line-height: 1.25;
   letter-spacing: 0.03em;
 
-  color: var(--primary-white-color-60);
+  color: var(--primary-white-color);
 }
 
 .icon-send {
